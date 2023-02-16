@@ -1,17 +1,9 @@
 # Hello All 👋, I'm Shafiq El Aradi
-<h3 align="center">A passionate Web developer from Libya</h3>
-<img align="right" alt="codingGuy" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfdc8vconym1xg3z2q85c0luw84e55h8ujcg89bb&rid=giphy.gif&ct=g">
+<img align="center" alt="codingGuy" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfdc8vconym1xg3z2q85c0luw84e55h8ujcg89bb&rid=giphy.gif&ct=g">
 
 ![](https://komarev.com/ghpvc/?username=shafikaradi&color=blue)
 
-- 🌱 I’m currently learning **Node.js , Ubuntu**
 
-- 👨‍💻 All of my projects are available at 
-
-
-- 📫 How to reach me **shafiq.aradi@icloud.com**
-
-- ⚡ Fun fact **I love to learn all about programming technology**
 
 ## Languages and Tools
 <img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
