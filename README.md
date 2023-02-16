@@ -1,5 +1,6 @@
 # Hello All 👋, I'm Shafiq El Aradi
 
+![](https://komarev.com/ghpvc/?username=shafikaradi&color=blue)
 
 ## Languages and Tools:
 
