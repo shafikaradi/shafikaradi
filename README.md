@@ -4,6 +4,14 @@
 
 ![](https://komarev.com/ghpvc/?username=shafikaradi&color=blue)
 
+- 🌱 I’m currently learning **Node.js , Ubuntu**
+
+- 👨‍💻 All of my projects are available at 
+
+
+- 📫 How to reach me **shafiq.aradi@icloud.com**
+
+- ⚡ Fun fact **I love to learn all about programming technology**
 
 ## Languages and Tools
 <img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
