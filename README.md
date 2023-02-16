@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Web developer from Libya</h3>
 <img align="right" alt="codingGuy" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfdc8vconym1xg3z2q85c0luw84e55h8ujcg89bb&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axg-coder&label=Profile%20views&color=0e75b6&style=flat" alt="axg-coder" /> </p>
+![](https://komarev.com/ghpvc/?username=shafikaradi&color=blue)
 
 
-
+## Languages and Tools
 <img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
 <img align="left" alt="csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="microsoftsqlserver" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
