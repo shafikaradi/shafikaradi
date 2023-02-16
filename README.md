@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shafikaradi&color=blue)
 
-<image align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" />
+<image align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfdc8vconym1xg3z2q85c0luw84e55h8ujcg89bb&rid=giphy.gif&ct=g" />
 ---
 ## Languages and Tools:
 
