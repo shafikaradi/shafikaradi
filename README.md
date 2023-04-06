@@ -32,3 +32,10 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafikaradi&show_icons=true&locale=en" alt="shafikaradi" /></p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shafikaradi&" alt="shafikaradi" /></p>
+
+<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shafikaradi" alt="shafikaradi" /></p>
