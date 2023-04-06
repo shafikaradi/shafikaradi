@@ -4,15 +4,15 @@
 
 
 
-<h3 align="left"> 🧔🏻About Me</h3>
+#### 🧔🏻About Me
 - Full Stack Developer 🧑🏻‍💻
 - Interested in ML and AI 🤖
 - Constantly growing my abilities and my skills 🌱
 
 
-<br/><br/>
 
-<h3 align="left">  Languages and Tools</h3>
+
+<h3 align="left">Skills and Tools</h3>
 <img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
 <img align="left" alt="csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="microsoftsqlserver" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
