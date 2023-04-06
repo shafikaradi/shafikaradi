@@ -2,9 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=shafikaradi&color=blue)
 
 ## 🧔🏻About Me
+<div style="text-align:left">
 - Full Stack Developer 🧑🏻‍💻
 - Interested in ML and AI 🤖
 - Constantly growing my abilities and my skills 🌱
+</div>
 
 <img align="right" alt="codingGuy" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfdc8vconym1xg3z2q85c0luw84e55h8ujcg89bb&rid=giphy.gif&ct=g">
 
