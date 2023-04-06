@@ -11,7 +11,7 @@
 
 #### Social Media
 <a href="https://www.linkedin.com/in/shafiq-elaradi-7a444a19/">
-  <i class="devicon-linkedin-plain colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
  
 #### Skills and Tools
