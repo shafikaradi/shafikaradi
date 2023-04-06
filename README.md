@@ -9,8 +9,11 @@
 - Interested in ML and AI 🤖
 - Constantly growing my abilities and my skills 🌱
 
-
-
+#### Social Media
+<a href="https://www.linkedin.com/in/shafiq-elaradi-7a444a19/">
+  <i class="devicon-linkedin-plain colored"></i>
+</a>
+ 
 #### Skills and Tools
 <img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />
 <img align="left" alt="csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
