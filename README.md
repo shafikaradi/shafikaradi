@@ -1,6 +1,6 @@
 # Hello All 👋, I'm Shafiq El Aradi
 <!-- ![](https://komarev.com/ghpvc/?username=shafikaradi&color=blue&style=flat-square) -->
-![](https://komarev.com/ghpvc/?username=shafikaradi&style=flat-square)
+![](https://komarev.com/ghpvc/?username=shafikaradi&style=flat-square&color=blue)
 <img align="right" alt="codingGuy" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfdc8vconym1xg3z2q85c0luw84e55h8ujcg89bb&rid=giphy.gif&ct=g">
 
 ### 🧔🏻About Me
@@ -30,7 +30,7 @@
 <img width="26px"  align="left" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />     
 <img width="26px"  align="left" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" style="padding-right:10px;"/>      
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <br/> <br/>
