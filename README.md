@@ -11,7 +11,7 @@
 
 ### 💻 Social Media
    <a href="https://www.linkedin.com/in/shafiq-elaradi-7a444a19/">
-    <img src="https://img.shields.io/badge/-shafiq%elaradi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+    <img src="https://img.shields.io/badge/-shafiq%20elaradi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </a>
 <br/>
