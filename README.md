@@ -10,8 +10,9 @@
 - Constantly growing my abilities and my skills 🌱
 
 ### 💻 Social Media
-<a href="https://www.linkedin.com/in/shafiq-elaradi-7a444a19/" target="_blank">
-  <img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+   <a href="https://www.linkedin.com/in/shafiq-elaradi-7a444a19/">
+    <img src="https://img.shields.io/badge/-ahmad%20saugi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
 </a>
 <br/>
 <br/>
