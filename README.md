@@ -35,11 +35,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <br/> <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafikaradi&show_icons=true&locale=en&theme=tokyonight" alt="shafikaradi" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shafikaradi&theme=tokyonight" alt="shafikaradi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafikaradi&theme=tokyonight" alt="shafikaradi" /></p>
 
 <!-- <p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shafikaradi&theme=tokyonight" alt="shafikaradi" /></p> -->
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shafikaradi&show_icons=true&locale=en&theme=tokyonight" alt="shafikaradi" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafikaradi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shafikaradi" /></p>
