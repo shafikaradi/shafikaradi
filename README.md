@@ -40,4 +40,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shafikaradi&theme=tokyonight" alt="shafikaradi" /></p>
 
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shafikaradi&theme=tokyonight" alt="shafikaradi" /></p>
+<!-- <p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shafikaradi&theme=tokyonight" alt="shafikaradi" /></p> -->
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafikaradi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="shafikaradi" /></p>
