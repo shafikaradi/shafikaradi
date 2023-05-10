@@ -1,7 +1,7 @@
 # Hello All 👋, I'm Shafiq El Aradi
 <!-- ![](https://komarev.com/ghpvc/?username=shafikaradi&color=blue&style=flat-square) -->
-<!-- ![](https://komarev.com/ghpvc/?username=shafikaradi&style=flat-square&color=blue)
-<img align="right" alt="codingGuy" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfdc8vconym1xg3z2q85c0luw84e55h8ujcg89bb&rid=giphy.gif&ct=g"> -->
+<!-- ![](https://komarev.com/ghpvc/?username=shafikaradi&style=flat-square&color=blue) -->
+<img align="right" alt="codingGuy" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pfdc8vconym1xg3z2q85c0luw84e55h8ujcg89bb&rid=giphy.gif&ct=g">
 
 <!-- <img alt="followers" src="https://img.shields.io/github/followers/madushadhanushka?label=Followers&style=social"> -->
 <img src="https://komarev.com/ghpvc/?style=flat-square&username=shafikaradi&color=blue" alt="watching_count" />
